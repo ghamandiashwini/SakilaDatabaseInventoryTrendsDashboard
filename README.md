@@ -9,25 +9,25 @@ The goal is to simulate real-world business analysis and provide actionable insi
 
 
 Objectives
-Analyze rental trends and customer behavior
-Identify top-performing films and categories
-Measure inventory utilization
-Segment customers based on spending and activity
-Build an interactive dashboard for business insights
+1)Analyze rental trends and customer behavior
+2)Identify top-performing films and categories
+3)Measure inventory utilization
+4)Segment customers based on spending and activity
+5)Build an interactive dashboard for business insights
 
 
 Tools & Technologies
-SQL (MySQL) – Data extraction and analysis
-Power BI – Dashboard and visualization
-DAX – Measures and KPIs
+1)SQL (MySQL) – Data extraction and analysis
+2)Power BI – Dashboard and visualization
+3)DAX – Measures and KPIs
 
 
 Key Insights
-Sports and animation categories generate the highest number of rentals
-All 599 Active customers are repeat customers
-134 frequent customers
-16 Blockbusters films 279 hit films
-Sports and Sci-Fi categories generate the highest revenue
+1)Sports and animation categories generate the highest number of rentals
+2)All 599 Active customers are repeat customers
+3)134 frequent customers
+4)16 Blockbusters films 279 hit films
+5)Sports and Sci-Fi categories generate the highest revenue
 
 Author
 Ashwini Ghamandi
